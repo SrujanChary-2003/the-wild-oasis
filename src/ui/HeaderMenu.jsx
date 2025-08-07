@@ -2,7 +2,7 @@ import styled from "styled-components";
 import { HiOutlineUser } from "react-icons/hi2";
 import ButtonIcon from "../ui/ButtonIcon";
 import { useNavigate } from "react-router-dom";
-import Logout from "../features/authentication/LogOut";
+import Logout from "../features/authentication/Logout";
 import DarkModeToggle from "./DarkModeToggle";
 const StyledHeaderMenu = styled.ul`
   display: flex;
